@@ -1,3 +1,1 @@
-good
-test
-!!
+A Scala Apache Access Log Demo
